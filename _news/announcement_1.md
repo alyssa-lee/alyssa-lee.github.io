@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-09-12
+date: 2023-09-04
 inline: true
 ---
 
-Started working in the [SAILING Lab](https://sailing-lab.github.io/)!
+[science courses at CMU]({% post_url 2023-09-04-science-courses %})!
