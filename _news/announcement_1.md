@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-09-04
+date: 2023-12-08
 inline: true
 ---
 
-[science courses at CMU]({% post_url 2023-09-04-science-courses %})!
+[advice for CMU CB ugrads]({% post_url 2023-12-08-cmu-comp-bio-undergrad-advice %})!
