@@ -4,7 +4,7 @@ title: The hidden life of trees
 date: 2023-09-04
 description: An adorable book by Peter Wohlleben about trees and how they cope with life's ups and downs (translated to English in 2016)
 tags: books
-categories: 
+categories: blog
 ---
 
 ![The hidden life of trees (book cover)](../../../assets/img/the-hidden-life-of-trees.jpg){: style="float: right; margin: 5px 20px; max-width: 200px"}

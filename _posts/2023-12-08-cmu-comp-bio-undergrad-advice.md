@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Advice for undergrads in comp bio at CMU
-date: 2023-09-28
+date: 2023-12-08
 description: Helpful information and resources for undergraduate students in CMU's Computational Biology Department!
-tags: 
-categories: 
+tags: undergrad
+categories: blog
 ---
 Helpful information and resources for undergraduate students in CMU's Computational Biology Department!
 

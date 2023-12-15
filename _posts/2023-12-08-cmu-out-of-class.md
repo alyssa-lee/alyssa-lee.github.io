@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Comp bio outside of class at CMU
-date: 2023-09-28
+date: 2023-12-08
 description: Interested in comp bio? Here are some things you can do that aren't taking classes.
-tags: 
-categories: 
+tags: undergrad
+categories: blog
 ---
 
 # Things you can do outside of class

@@ -3,8 +3,8 @@ layout: post
 title: science courses!
 date: 2023-09-04
 description: my thoughts on science courses at CMU
-tags: courses
-categories: 
+tags: courses undergrad
+categories: blog
 ---
 <!---
 ## COURSENAME

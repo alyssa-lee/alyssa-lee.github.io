@@ -2,9 +2,9 @@
 layout: post
 title: The design of everyday things
 date: 2023-09-05
-description: why it's not your fault that you can't figure out how which way to turn that shower handle (Donald A. Norman, originally published 1998)
+description: why it's not your fault that you can't figure out how to open doors (Donald A. Norman, originally published 1998)
 tags: books
-categories: 
+categories: blog
 ---
 
 ![The design of everyday things (book cover)](../../../assets/img/the-design-of-everyday-things.jpg){: style="float: right; margin: 5px 20px; max-width: 200px"}

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: How to get involved in comp bio research
-date: 2023-09-28
+date: 2023-12-08
 description: Getting involved in comp bio research as an undergrad
-tags: 
-categories: 
+tags: undergrad
+categories: blog
 ---
 
 # Advice for getting involved in research as an undergrad
