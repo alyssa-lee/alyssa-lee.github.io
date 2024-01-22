@@ -9,6 +9,10 @@ categories: blog
 
 I'm spending my final semester of college at the [Williams-Mystic Coastal & Ocean Studies Program](https://mystic.williams.edu/), where I'll take interdisciplinary courses in science, history, literature, and policy, conduct independent research, and visit a few different coastal regions! I'm going to write about my experience along the way to share it with you all.
 
+<div style="margin-top: 30px; margin-bottom: 30px">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/199935152@N07/albums/72177720314258958" title="Williams-Mystic"><img src="https://live.staticflickr.com/65535/53479579047_02c2d97a97_z.jpg" width="800" height="600" alt="Williams-Mystic"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
 I'm finally here at Williams-Mystic! I just moved in this morning and it is already a whirlwind. Here are my thoughts, briefly:
 
 - Mystic, CT is a small coastal town with lots of cute shops and restaurants, a bunch of boats, and a beautiful sunset over the Mystic River. I live in a historic house on the Mystic Seaport Museum campus. It's really nice inside! Also, there is *free* in-unit laundry...
