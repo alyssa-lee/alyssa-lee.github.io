@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My first day at Williams-Mystic!
-date: 2023-01-21
+date: 2024-01-21
 description: 
 tags: 
 categories: blog
