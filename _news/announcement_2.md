@@ -4,4 +4,4 @@ date: 2024-01-21
 inline: true
 ---
 
-[my first day at Williams-Mystic!]({% post_url 2024-01-21-mystic-first-day %})
+[my Williams-Mystic blog posts!](https://alyssa-lee.github.io/blog/tag/wm/)

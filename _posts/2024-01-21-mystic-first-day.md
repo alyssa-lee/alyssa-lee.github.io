@@ -3,7 +3,7 @@ layout: post
 title: My first day at Williams-Mystic!
 date: 2024-01-21
 description: 
-tags: 
+tags: wm
 categories: blog
 ---
 
