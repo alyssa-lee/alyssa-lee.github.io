@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My offshore trip in photos! (Part 1)
+title: My offshore trip in photos!
 date: 2024-02-06
 description: What it was like sailing in the Caribbean, from Antigua to Dominica and back
 tags: wm
