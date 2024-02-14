@@ -12,10 +12,6 @@ Helpful information and resources for undergraduate students in CMU's Computatio
 ## Advice
 - [Advice for getting involved in research](../research-advice): Some advice for finding good research opportunities, especially if it's your first time.
 - [Things you can do outside of class](../cmu-out-of-class): A list of fun and educational activities that aren't classes!
-- TODO: Advice for freshman spring courses
-- TODO: Applying to internships/jobs in biotech
-- TODO: Applying to REUs (research at other universities)
-- TODO: Becoming a TA (teaching assistant)
 
 ## Helpful resources
 - [Guide to the Five SCS Majors](https://docs.google.com/spreadsheets/d/1661OSGqDIPEyjfMjJXICcVcm6gLbHbvBy1KKAdYnfkg/edit?usp=sharing): A comparison chart to help first-year students in the School of Computer Science decide which major to declare in the spring. Please check CMU catalog website or consult with advisors for the most accurate and up-to-date information.
