@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-12-08
+date: 2024-01-21
 inline: true
 ---
 
-[advice for CMU CB ugrads]({% post_url 2023-12-08-cmu-comp-bio-undergrad-advice %})
+[My Williams-Mystic blog posts!](https://alyssa-lee.github.io/blog/tag/wm/)

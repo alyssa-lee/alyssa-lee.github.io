@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2024-01-21
+date: 2024-02-13
 inline: true
 ---
 
-[my Williams-Mystic blog posts!](https://alyssa-lee.github.io/blog/tag/wm/)
+[The great wave: Art, science, and travelers from the 2011 Japan tsunami]({% post_url 2024-02-13-the-great-wave %})
