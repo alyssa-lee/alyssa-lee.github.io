@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Awesome biology #1: Bacteria, giant viruses, and their viruses"
+title: "Bacteria, giant viruses, and their viruses"
 date: 2023-12-15
 description: 
 tags: biology
