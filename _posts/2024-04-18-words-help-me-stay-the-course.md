@@ -7,9 +7,9 @@ tags: thoughts
 categories: blog
 ---
 
-Sometimes I worry if I'm doing it right when it comes to my life and career choices. These are words that help me stay the course.
+One of my favorite things on my offshore trip was driving the *Argo*... I stood at the wheel, gazing ahead, and in order to stay on course I checked the stars. Even now, when I look up and see familiar patterns in the sky, I feel reassured.
 
-One of my favorite things on the offshore trip was driving the *Argo*... I stood at the wheel, gazing ahead, and in order to stay on course I checked the stars. Even now, when I look up and see familiar patterns in the sky, I feel reassured.
+Sometimes I worry if I'm doing it right when it comes to my life and career choices. These are words that help me stay the course.
 
 >Don’t ask what the world needs, ask what makes you come alive, and go do it. Because what the world needs are people who have come alive. 
 >
