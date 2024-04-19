@@ -13,9 +13,6 @@ categories: blog
 
 [back to blog](../../)
 
-[another post](../post-url)
-
-
 &nbsp;
 &nbsp;
 &nbsp;
