@@ -35,7 +35,7 @@ An R plot I made, providing evidence for the above:
 ![rplot](../../../assets/img/2024-06-09/rplot.png){: style="max-width: 800px"}
 
 
-Acknowledgements: I must thank emeritus professor of marine ecology and prominent invasive species expert Dr. Jim Carlton for showing up to help us identify dozens of microscopic creatures. He was key to the now-widespread understanding that marine invasive species spread through ships' ballast water. If you want to know more about this man, read [this post about marine invasions](../../_posts/2024-02-13-the-great-wave.md) or the excellent book *Out of Eden: An Odyssey of Ecological Invasion* by Alan Burdick, which eloquently describes him as "a mitochondrion of a man."
+Acknowledgements: I must thank emeritus professor of marine ecology and prominent invasive species expert Dr. Jim Carlton for showing up to help us identify dozens of microscopic creatures. He was key to the now-widespread understanding that marine invasive species spread through ships' ballast water. If you want to know more about this man, read [this post about marine invasions]({% post_url 2024-02-13-the-great-wave %}) or the excellent book *Out of Eden: An Odyssey of Ecological Invasion* by Alan Burdick, which eloquently describes him as "a mitochondrion of a man."
 
 References: [Menge et al. 2002](https://doi.org/10.1093/icb/42.4.892), [Zwerschke et al. 2013](https://doi.org/10.1007/s10152-013-0352-5).
 
