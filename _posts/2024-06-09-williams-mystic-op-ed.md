@@ -17,6 +17,8 @@ You can read the [op-ed](https://williamsrecord.com/467062/opinions/an-open-lett
 
 ![oped-framed](../../../assets/img/2024-06-09/oped.jpeg){: style="max-width:400px"}
 
+UPDATE (June 21, 2024): We're not done yet! Williams has announced that they will form a working group this summer to attempt to develop a new financial model for Williams-Mystic.
+
 [back to blog](../../)
 
 &nbsp;
