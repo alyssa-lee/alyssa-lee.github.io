@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2024-04-18
+date: 2024-06-30
 inline: true
 ---
 
-[My California and Louisiana trips in photos!]({% post_url 2024-04-18-ca-la-photos %})
+[What I'm reading in summer 2024]({% post_url 2024-06-30-summer-reading-2024 %})

@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2024-02-13
+date: 2024-06-21
 inline: true
 ---
 
-[The great wave: Art, science, and travelers from the 2011 Japan tsunami]({% post_url 2024-02-13-the-great-wave %})
+[Crochet DNA!]({% post_url 2024-06-21-crochet-dna %})
