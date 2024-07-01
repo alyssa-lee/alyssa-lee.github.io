@@ -6,6 +6,18 @@ description:
 tags: books
 categories: blog
 ---
+
+## The Other Significant Others by Rhaina Cohen
+A book suggesting that platonic friendship can be just as meaningful and central to our lives as romantic partnership.
+
+"There is freedom in the unfamiliar, when the kind of relationship you have exists outside of well-worn categories."
+― Rhaina Cohen
+
+![other significant others](../../../assets/img/2024-06-30/other_significant_others.jpg){:style="max-width:400px"}
+
+&nbsp;
+&nbsp;
+
 ## This American Ex-Wife by Lyz Lenz
 A funny and truthful memoir on the cultural institution of heterosexual marriage and how it's not great for women.
 
