@@ -11,7 +11,7 @@ Recently, I attended a Women in Science symposium at my workplace. The research 
 
 What really struck me was how much they were *there* for each other. It reminded me of my experience studying computer science at Carnegie Mellon, where I found an amazing group of women in CS. They understood what it was like to be dismissed by a male classmate, or to feel like an imposter in a field full of men. Having supportive peers and mentors is crucial to success in any discipline, and especially so when you are a woman in a place where women haven't always been welcomed.
 
-I also recently read *A Lab of One's Own* by Rita Colwell, PhD, a woman scientist who has led a fascinating life.
+I also recently read [*A Lab of One's Own*](https://www.simonandschuster.com/books/A-Lab-of-Ones-Own/Rita-Colwell/9781501181290) by Rita Colwell, PhD, a woman scientist who has led a fascinating life.
 
 ![a lab of ones own book cover](../../../assets/img/2024-09-20/a-lab-of-ones-own.jpg){: style="max-width:400px"}
 
