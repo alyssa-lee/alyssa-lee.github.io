@@ -19,6 +19,8 @@ You can read the [op-ed](https://williamsrecord.com/467062/opinions/an-open-lett
 
 UPDATE (June 21, 2024): We're not done yet! Williams has announced that they will form a working group this summer to attempt to develop a new financial model for Williams-Mystic.
 
+UPDATE (August 30, 2024): Williams-Mystic will continue! Thanks to efforts by members of our community to reach out to the administration, the program will continue with some changes intended to make it financially sustainable. The heart and soul of Williams-Mystic will remain intact.
+
 [back to blog](../../)
 
 &nbsp;
