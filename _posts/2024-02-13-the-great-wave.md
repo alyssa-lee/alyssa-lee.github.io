@@ -13,8 +13,8 @@ categories: blog
 
 In 2011, [a destructive tsunami hit Japan](https://www.ncei.noaa.gov/news/day-2011-japan-earthquake-and-tsunami), causing loss of life and widespread damage. One interesting consequence: Debris washing out into the Pacific turned up on the shores of the U.S. West Coast. And each new arrival brought a host of aquatic hitchhikers.
 
-<img src="https://www.science.org/cms/10.1126/science.aao1498/asset/7322d868-dba3-42d8-8135-40bd1d0ef49c/assets/graphic/357_1402_f1.jpeg" width="100%" alt="Japanese tsunami marine debris rafts and associated biota"/>
 
+![carlton et al 2017](../../../assets/img/carlton_2017_tsunami.jpeg){: style="max-width:400px"}
 *Japanese tsunami marine debris rafts and associated biota (Source: [Carlton et al. 2017](https://www.science.org/doi/10.1126/science.aao1498#F1))*
 
 Buoys, boats, and an entire fishing dock traveled from Japan all the way to the coasts of Oregon and Washington in the aftermath of the 2011 tsunami. These "rafts" brought an incredible variety of non-native marine organisms to U.S. waters. Hundreds of species arrived in the years following the tsunami. (They were still arriving in 2017, six years later, when [this paper](https://www.science.org/doi/10.1126/science.aao1498) was published.)
