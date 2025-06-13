@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Student in Quantitative Biomedicine, Rutgers University
+subtitle: 
 
 profile:
   align: right
-  image: prof_pic_boat.jpg
+  image: prof_pic_point_lobos.png
   image_circular: false # crops the image to make it circular
   more_info: >
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
@@ -24,10 +24,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm so excited to be attending Rutgers University for my **Ph.D. in Quantitative Biomedicine** this fall!
+I'm so excited to be attending Rutgers University for my [Ph.D. in Quantitative Biomedicine](https://iqb.rutgers.edu/whyqb) this fall!
 
-I graduated from Carnegie Mellon University with my **B.S. in Computational Biology** in May 2024. Subsequently, I worked as a Bioinformatics Analyst at the University of Pittsburgh.
+I graduated from Carnegie Mellon University with my [B.S. in Computational Biology](https://cbd.cmu.edu/education/undergraduate/bs-computational-biology/) in May 2024. Subsequently, I worked as a Bioinformatics Analyst at the University of Pittsburgh.
 
 I spent my final semester as an undergrad at the [Williams-Mystic Coastal & Ocean Studies Program](https://mystic.williams.edu/), where I studied science, history, literature, and policy, conducted independent research, and visited a few different coastal regions! I wrote about my experiences on this blog.
 
-At Carnegie Mellon, I was co-president of the undergraduate Computational Biology Society and played oboe in the All University Orchestra. I love reading books and I share book recommendations on this blog frequently.
+At Carnegie Mellon, I was co-president of the undergraduate Computational Biology Society and played oboe in the All University Orchestra.
+
+I love reading books and I share book recommendations on this blog frequently.
