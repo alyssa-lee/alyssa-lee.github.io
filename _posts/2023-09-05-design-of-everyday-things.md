@@ -7,9 +7,9 @@ tags: books
 categories: blog
 ---
 
-![The design of everyday things (book cover)](../../../assets/img/the-design-of-everyday-things.jpg){: style="float: right; margin: 5px 20px; max-width: 200px"}
+![The design of everyday things (book cover)](../../../assets/img/2023-01-01/the-design-of-everyday-things.jpg){: style="float: right; margin: 5px 20px; max-width: 200px"}
 
-![push pull door](../../../assets/img/pushpulldoor.jpeg){: style="float: left; margin: 5px 20px; max-width:200px"}
+![push pull door](../../../assets/img/2023-01-01/pushpulldoor.jpeg){: style="float: left; margin: 5px 20px; max-width:200px"}
 
 **"Somehow, when a device as simple as a door has to come with an instruction manual-- even a one-word manual-- then it is a failure, poorly designed."**
 

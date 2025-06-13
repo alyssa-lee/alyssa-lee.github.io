@@ -7,7 +7,7 @@ tags: books
 categories: blog
 ---
 
-![The hidden life of trees (book cover)](../../../assets/img/the-hidden-life-of-trees.jpg){: style="float: right; margin: 5px 20px; max-width: 200px"}
+![The hidden life of trees (book cover)](../../../assets/img/2023-01-01/the-hidden-life-of-trees.jpg){: style="float: right; margin: 5px 20px; max-width: 200px"}
 
 The way the author describes trees is so cute. You could fall in love with trees from reading this book (or at least, I did).
 
