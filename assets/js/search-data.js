@@ -72,26 +72,191 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-post-with-plotly-js",
+            },{id: "post-advice-for-starting-your-phd",
         
-          title: "a post with plotly.js",
+          title: "Advice for starting your PhD",
         
-        description: "this is what included plotly.js code could look like",
+        description: "A compilation",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/plotly/";
+            window.location.href = "/blog/2025/start-a-phd-advice-compilation/";
           
         },
-      },{id: "post-a-post-with-image-galleries",
+      },{id: "post-climate-change-newsletters-i-like",
         
-          title: "a post with image galleries",
+          title: "Climate change newsletters I like",
         
-        description: "this is what included image galleries could look like",
+        description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/photo-gallery/";
+            window.location.href = "/blog/2025/climate-newsletters/";
+          
+        },
+      },{id: "post-standing-up-for-science",
+        
+          title: "Standing up for science",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/standing-up-for-science/";
+          
+        },
+      },{id: "post-what-i-39-ve-been-reading-to-start-2025",
+        
+          title: "What I&#39;ve been reading to start 2025",
+        
+        description: "Andy Weir, Siddhartha Mukherjee, Malcolm Gladwell, and more",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/reading-to-start-2025/";
+          
+        },
+      },{id: "post-taking-personal-action-for-the-climate",
+        
+          title: "Taking personal action for the climate",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/my-climate-actions/";
+          
+        },
+      },{id: "post-donating-for-the-climate-in-2025",
+        
+          title: "Donating for the climate in 2025",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/donations-for-climate/";
+          
+        },
+      },{id: "post-the-healing-power-of-placentas-smart-insulin-and-the-woman-who-could-smell-parkinson-39-s",
+        
+          title: "The healing power of placentas, smart insulin, and the woman who could smell...",
+        
+        description: "A compilation of stories from medicine",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/placentas-smart-insulin/";
+          
+        },
+      },{id: "post-sci-fi-book-recommendations",
+        
+          title: "Sci-fi book recommendations",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/scifi-book-recs/";
+          
+        },
+      },{id: "post-a-lab-of-one-39-s-own",
+        
+          title: "A lab of one&#39;s own",
+        
+        description: "Women in science, and an awesome memoir by Rita Colwell, PhD",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/a-lab-of-ones-own/";
+          
+        },
+      },{id: "post-recommended-reading-for-summer-2024",
+        
+          title: "Recommended reading for summer 2024!",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/summer-reading-2024/";
+          
+        },
+      },{id: "post-my-first-week-volunteering-in-the-root-lab",
+        
+          title: "My first week volunteering in the Root Lab!",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/root-lab/";
+          
+        },
+      },{id: "post-what-are-my-research-interests",
+        
+          title: "What are my research interests???",
+        
+        description: "I list random articles I found in order to find out",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/research-interests/";
+          
+        },
+      },{id: "post-crochet-projects-for-nerds-lt-3",
+        
+          title: "Crochet projects for nerds &lt;3",
+        
+        description: "DNA in crochet form",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/crochet-dna/";
+          
+        },
+      },{id: "post-my-academic-work-at-williams-mystic",
+        
+          title: "My academic work at Williams-Mystic",
+        
+        description: "Independent research projects: recap",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/wm-academics/";
+          
+        },
+      },{id: "post-our-message-to-williams-college-don-39-t-close-williams-mystic",
+        
+          title: "Our message to Williams College: Don&#39;t close Williams-Mystic",
+        
+        description: "Advocating for the program that taught me how to advocate for myself",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/williams-mystic-op-ed/";
+          
+        },
+      },{id: "post-poem-making",
+        
+          title: "Poem: Making",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/making-poem/";
+          
+        },
+      },{id: "post-love-letter-to-williams-mystic",
+        
+          title: "Love letter to Williams-Mystic",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/love-letter-williams-mystic/";
           
         },
       },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
@@ -105,224 +270,202 @@ ninja.data = [{
             window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
           
         },
-      },{id: "post-a-post-with-tabs",
+      },{id: "post-poem-sea-weed-by-d-h-lawrence",
         
-          title: "a post with tabs",
+          title: "Poem: Sea-Weed by D.H. Lawrence",
         
-        description: "this is what included tabs in a post could look like",
+        description: "Shared with me by esteemed professor of ocean literature Dr. Ned Schaumberg",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/tabs/";
+            window.location.href = "/blog/2024/seaweed-dh-lawrence/";
           
         },
-      },{id: "post-a-post-with-typograms",
+      },{id: "post-words-that-help-me-stay-the-course",
         
-          title: "a post with typograms",
+          title: "Words that help me stay the course",
         
-        description: "this is what included typograms code could look like",
+        description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/typograms/";
+            window.location.href = "/blog/2024/words-help-me-stay-the-course/";
           
         },
-      },{id: "post-a-post-that-can-be-cited",
+      },{id: "post-photos-from-california-and-louisiana",
         
-          title: "a post that can be cited",
+          title: "Photos from California and Louisiana!",
         
-        description: "this is what a post that can be cited looks like",
+        description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/post-citation/";
+            window.location.href = "/blog/2024/ca-la-photos/";
           
         },
-      },{id: "post-a-post-with-pseudo-code",
+      },{id: "post-first-time-sailing",
         
-          title: "a post with pseudo code",
+          title: "First time sailing!",
         
-        description: "this is what included pseudo code could look like",
+        description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/pseudocode/";
+            window.location.href = "/blog/2024/first-day-sailing/";
           
         },
-      },{id: "post-a-post-with-code-diff",
+      },{id: "post-my-favorite-places-in-mystic-so-far",
         
-          title: "a post with code diff",
+          title: "My favorite places in Mystic (so far)",
         
-        description: "this is how you can display code diffs",
+        description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/code-diff/";
+            window.location.href = "/blog/2024/favorite-places-in-mystic/";
           
         },
-      },{id: "post-a-post-with-advanced-image-components",
+      },{id: "post-completely-fascinating-biology-videos",
         
-          title: "a post with advanced image components",
+          title: "Completely fascinating biology videos",
         
-        description: "this is what advanced image components could look like",
+        description: "The most mind-blowing videos I&#39;ve ever seen",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/advanced-images/";
+            window.location.href = "/blog/2024/fascinating-biology-videos/";
           
         },
-      },{id: "post-a-post-with-vega-lite",
+      },{id: "post-the-great-wave-art-science-and-travelers-from-the-2011-japan-tsunami",
         
-          title: "a post with vega lite",
+          title: "The great wave: Art, science, and travelers from the 2011 Japan tsunami",
         
-        description: "this is what included vega lite code could look like",
+        description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/vega-lite/";
+            window.location.href = "/blog/2024/the-great-wave/";
           
         },
-      },{id: "post-a-post-with-geojson",
+      },{id: "post-my-offshore-trip-in-photos",
         
-          title: "a post with geojson",
+          title: "My offshore trip in photos!",
         
-        description: "this is what included geojson code could look like",
+        description: "What it was like sailing in the Caribbean, from Antigua to Dominica and back",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/geojson-map/";
+            window.location.href = "/blog/2024/offshore-antigua-dominica/";
           
         },
-      },{id: "post-a-post-with-echarts",
+      },{id: "post-ready-for-offshore",
         
-          title: "a post with echarts",
+          title: "Ready for offshore!",
         
-        description: "this is what included echarts code could look like",
+        description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/echarts/";
+            window.location.href = "/blog/2024/mystic-ready-for-offshore/";
           
         },
-      },{id: "post-a-post-with-chart-js",
+      },{id: "post-my-first-day-at-williams-mystic",
         
-          title: "a post with chart.js",
+          title: "My first day at Williams-Mystic!",
         
-        description: "this is what included chart.js code could look like",
+        description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/chartjs/";
+            window.location.href = "/blog/2024/mystic-first-day/";
           
         },
-      },{id: "post-a-post-with-tikzjax",
+      },{id: "post-recommended-reading-2023",
         
-          title: "a post with TikZJax",
+          title: "Recommended reading 2023",
         
-        description: "this is what included TikZ code could look like",
+        description: "Books I read in 2023 that I recommend!",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2023/tikzjax/";
+            window.location.href = "/blog/2023/recommended-reading-2023/";
           
         },
-      },{id: "post-a-post-with-bibliography",
+      },{id: "post-bacteria-giant-viruses-and-their-viruses",
         
-          title: "a post with bibliography",
+          title: "Bacteria, giant viruses, and their viruses",
         
-        description: "an example of a blog post with bibliography",
+        description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2023/post-bibliography/";
+            window.location.href = "/blog/2023/giant-viruses/";
           
         },
-      },{id: "post-a-post-with-jupyter-notebook",
+      },{id: "post-how-to-get-involved-in-comp-bio-research",
         
-          title: "a post with jupyter notebook",
+          title: "How to get involved in comp bio research",
         
-        description: "an example of a blog post with jupyter notebook",
+        description: "Getting involved in comp bio research as an undergrad",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2023/jupyter-notebook/";
+            window.location.href = "/blog/2023/research-advice/";
           
         },
-      },{id: "post-a-post-with-custom-blockquotes",
+      },{id: "post-comp-bio-outside-of-class-at-cmu",
         
-          title: "a post with custom blockquotes",
+          title: "Comp bio outside of class at CMU",
         
-        description: "an example of a blog post with custom blockquotes",
+        description: "Interested in comp bio? Here are some things you can do that aren&#39;t taking classes.",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2023/custom-blockquotes/";
+            window.location.href = "/blog/2023/cmu-out-of-class/";
           
         },
-      },{id: "post-a-post-with-table-of-contents-on-a-sidebar",
+      },{id: "post-advice-for-undergrads-in-comp-bio-at-cmu",
         
-          title: "a post with table of contents on a sidebar",
+          title: "Advice for undergrads in comp bio at CMU",
         
-        description: "an example of a blog post with table of contents on a sidebar",
+        description: "Helpful information and resources for undergraduate students in CMU&#39;s Computational Biology Department!",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2023/sidebar-table-of-contents/";
+            window.location.href = "/blog/2023/cmu-comp-bio-undergrad-advice/";
           
         },
-      },{id: "post-a-post-with-audios",
+      },{id: "post-the-design-of-everyday-things",
         
-          title: "a post with audios",
+          title: "The design of everyday things",
         
-        description: "this is what included audios could look like",
+        description: "why it&#39;s not your fault that you can&#39;t figure out how to open doors (Donald A. Norman, originally published 1998)",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2023/audios/";
+            window.location.href = "/blog/2023/design-of-everyday-things/";
           
         },
-      },{id: "post-a-post-with-videos",
+      },{id: "post-science-courses",
         
-          title: "a post with videos",
+          title: "science courses!",
         
-        description: "this is what included videos could look like",
+        description: "my thoughts on science courses at CMU",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2023/videos/";
+            window.location.href = "/blog/2023/science-courses/";
           
         },
-      },{id: "post-displaying-beautiful-tables-with-bootstrap-tables",
+      },{id: "post-the-hidden-life-of-trees",
         
-          title: "displaying beautiful tables with Bootstrap Tables",
+          title: "The hidden life of trees",
         
-        description: "an example of how to use Bootstrap Tables",
+        description: "An adorable book by Peter Wohlleben about trees and how they cope with life&#39;s ups and downs (translated to English in 2016)",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2023/tables/";
-          
-        },
-      },{id: "post-a-post-with-table-of-contents",
-        
-          title: "a post with table of contents",
-        
-        description: "an example of a blog post with table of contents",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/table-of-contents/";
-          
-        },
-      },{id: "post-a-post-with-giscus-comments",
-        
-          title: "a post with giscus comments",
-        
-        description: "an example of a blog post with giscus comments",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2022/giscus-comments/";
+            window.location.href = "/blog/2023/hidden-life-of-trees/";
           
         },
       },{id: "post-displaying-external-posts-on-your-al-folio-blog",
@@ -334,105 +477,6 @@ ninja.data = [{
         handler: () => {
           
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
-          
-        },
-      },{id: "post-a-post-with-redirect",
-        
-          title: "a post with redirect",
-        
-        description: "you can also redirect to assets like pdf",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/assets/pdf/example_pdf.pdf";
-          
-        },
-      },{id: "post-a-post-with-diagrams",
-        
-          title: "a post with diagrams",
-        
-        description: "an example of a blog post with diagrams",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2021/diagrams/";
-          
-        },
-      },{id: "post-a-distill-style-blog-post",
-        
-          title: "a distill-style blog post",
-        
-        description: "an example of a distill-style blog post and main elements",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2021/distill/";
-          
-        },
-      },{id: "post-a-post-with-twitter",
-        
-          title: "a post with twitter",
-        
-        description: "an example of a blog post with twitter",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2020/twitter/";
-          
-        },
-      },{id: "post-a-post-with-disqus-comments",
-        
-          title: "a post with disqus comments",
-        
-        description: "an example of a blog post with disqus comments",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2015/disqus-comments/";
-          
-        },
-      },{id: "post-a-post-with-math",
-        
-          title: "a post with math",
-        
-        description: "an example of a blog post with some math",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2015/math/";
-          
-        },
-      },{id: "post-a-post-with-code",
-        
-          title: "a post with code",
-        
-        description: "an example of a blog post with some code",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2015/code/";
-          
-        },
-      },{id: "post-a-post-with-images",
-        
-          title: "a post with images",
-        
-        description: "this is what included images could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2015/images/";
-          
-        },
-      },{id: "post-a-post-with-formatting-and-links",
-        
-          title: "a post with formatting and links",
-        
-        description: "march &amp; april, looking forward to summer",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2015/formatting-and-links/";
           
         },
       },{id: "books-the-godfather",
@@ -501,35 +545,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
-        },
-      },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
-        },
-      },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("mailto:%61%6C%79%73%73%61.%6C%65%65@%72%75%74%67%65%72%73.%65%64%75", "_blank");
         },
       },{
       id: 'light-theme',
