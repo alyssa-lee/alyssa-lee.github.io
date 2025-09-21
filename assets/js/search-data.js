@@ -16,7 +16,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-advice-for-starting-your-phd",
+        },{id: "post-science-book-dump",
+        
+          title: "science book dump!",
+        
+        description: "tuberculosis, wildlife crossings, and scary fungi",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/science-book-dump/";
+          
+        },
+      },{id: "post-advice-for-starting-your-phd",
         
           title: "Advice for starting your PhD",
         
