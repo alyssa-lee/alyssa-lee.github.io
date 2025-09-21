@@ -27,6 +27,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/science-book-dump/";
           
         },
+      },{id: "post-i-joined-the-rutgers-sailing-team",
+        
+          title: "I joined the Rutgers sailing team!",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/i-joined-ru-sailing-team/";
+          
+        },
       },{id: "post-advice-for-starting-your-phd",
         
           title: "Advice for starting your PhD",
