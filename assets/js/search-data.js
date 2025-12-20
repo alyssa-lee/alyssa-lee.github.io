@@ -16,7 +16,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-science-book-dump",
+        },{id: "post-why-am-i-researching-seaweed",
+        
+          title: "Why am I researching seaweed?",
+        
+        description: "Pros and cons of seaweed as fuel",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/why-study-seaweed-biofuel/";
+          
+        },
+      },{id: "post-my-first-semester-as-a-phd-student",
+        
+          title: "My first semester as a PhD student!",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/first-semester-phd-review/";
+          
+        },
+      },{id: "post-science-book-dump",
         
           title: "science book dump!",
         
