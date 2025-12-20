@@ -48,4 +48,4 @@ It turns out that if the sequence Cas9 is looking for is flanked by these short 
 
 **Footnote 2: Course!**
 
-I studied the CRISPR-Cas9 system, as well as several variations on it, in a half-semester course called Genome Editing Biotechnology. I talked about it in my [CMU science course reviews](../../science-courses).
+I studied the CRISPR-Cas9 system, as well as several variations on it, in a half-semester course called Genome Editing Biotechnology. I talked about it in my [CMU science course reviews]({% post_url 2023-09-04-science-courses %}).
