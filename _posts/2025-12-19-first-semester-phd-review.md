@@ -12,9 +12,11 @@ Hi! I just finished my first semester as a PhD student. For those who don't know
 Year 1:
 - Do 3 rotations (2 months of research in each lab; after I finish all 3 rotations, I decide which one will be my ~~forever home~~ thesis advisor)
 - Take classes
+
 Year 2:
 - Do research in my thesis advisor's lab
 - Take classes
+
 Years 3-5+:
 - Do research in my thesis advisor's lab
 - Propose, write, and eventually defend my PhD thesis
