@@ -34,6 +34,7 @@ Full bird list:
 
 
 My favorite:
+
 ![sanderlings](../../../assets/img/2026-01-18/sanderling.png){: style="max-width:400px"}
 
 Sanderlings are adorably tiny birds that nest in the Arctic and migrate south for the winter. They like to gather in flocks on the beach and run back and forth with the waves.
