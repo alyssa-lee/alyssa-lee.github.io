@@ -16,7 +16,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-why-am-i-researching-seaweed",
+        },{id: "post-photos-from-my-trip-to-santa-barbara",
+        
+          title: "Photos from my trip to Santa Barbara!",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/santa-barbara-trip-photos/";
+          
+        },
+      },{id: "post-why-am-i-researching-seaweed",
         
           title: "Why am I researching seaweed?",
         
