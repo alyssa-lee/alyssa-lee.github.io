@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm so excited to be attending Rutgers University for my [Ph.D. in Quantitative Biomedicine](https://iqb.rutgers.edu/whyqb) this fall!
+I'm so excited to be attending Rutgers University for my [Ph.D. in Quantitative Biomedicine](https://iqb.rutgers.edu/whyqb)!
 
 I graduated from Carnegie Mellon University with my [B.S. in Computational Biology](https://cbd.cmu.edu/education/undergraduate/bs-computational-biology/) in May 2024. Subsequently, I worked as a Bioinformatics Analyst at the University of Pittsburgh.
 
@@ -32,4 +32,4 @@ I spent my final semester as an undergrad at the [Williams-Mystic Coastal & Ocea
 
 At Carnegie Mellon, I was co-president of the undergraduate Computational Biology Society and played oboe in the All University Orchestra.
 
-I love reading books and I share book recommendations on this blog frequently.
+I love reading books and I share book recommendations on this blog frequently. I also love watching birds.
