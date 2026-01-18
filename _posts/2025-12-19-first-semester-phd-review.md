@@ -21,16 +21,18 @@ Years 3-5+:
 - Do research in my thesis advisor's lab
 - Propose, write, and eventually defend my PhD thesis
 
+
+&nbsp;
+
 This semester, I did 2 out of 3 rotations and took classes. My classes were:
-- Biophysical Chem I: The 3D structure of proteins
-- Dynamical Models in Biology: Differential equations for modeling biological systems
-- Theory of Probability: Lots of mathematical proofs of important foundational ideas in probability theory (the law of large numbers and the central limit theorem, among others)
+- **Biophysical Chem I**: The 3D structure of proteins
+- **Dynamical Models in Biology**: Differential equations for modeling biological systems
+- **Theory of Probability**: Lots of mathematical proofs of important foundational ideas in probability theory (the law of large numbers and the central limit theorem, among others)
 
 The classes were good, but the real star of my PhD is, of course, the research. I got to do research in two different labs this semester, which was awesome :)
 
 ## My first two rotations
-My first rotation was in the [Bhattacharya lab](https://bhattacharyalab.com/), which studies corals, seaweed, and extremophiles. My second rotation was in the [Khare lab](https://sagardkharelab.org/), which does protein engineering. They are both working on a project to develop enzymes that biodegrade seaweed. (For a fuller explanation on why this is important, see my post [here]({% post_url 2025-12-19-why-study-seaweed-biofuel %})
-.)
+My first rotation was in the [Bhattacharya lab](https://bhattacharyalab.com/), which studies corals, seaweed, and extremophiles. My second rotation was in the [Khare lab](https://sagardkharelab.org/), which does protein engineering. They are both working on a project to develop enzymes that biodegrade seaweed. (For a fuller explanation on why this is important, see my post [here]({% post_url 2025-12-19-why-study-seaweed-biofuel %}).)
 
 The seaweed project, briefly:
 1. Find enzymes in microbes that can degrade seaweed
