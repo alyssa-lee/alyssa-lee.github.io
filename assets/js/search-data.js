@@ -16,7 +16,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-photos-from-my-trip-to-santa-barbara",
+        },{id: "post-my-very-first-first-author-preprint-is-out",
+        
+          title: "My very first first-author preprint is out!",
+        
+        description: "&quot;Zero-shot ecological annotation of microbial genomes with myLLannotator accelerates scientific discovery&quot; by Alyssa Lu Lee, Arya Sharma, and Rohan Maddamsetti, bioRxiv, 2026 (preprint). doi: https://doi.org/10.64898/2026.01.18.700140",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/my-first-first-author-preprint-is-out/";
+          
+        },
+      },{id: "post-photos-from-my-trip-to-santa-barbara",
         
           title: "Photos from my trip to Santa Barbara!",
         
@@ -464,11 +475,11 @@ ninja.data = [{
             },},{id: "news-my-book-recommendations",
           title: 'My book recommendations',
           description: "",
-          section: "News",},{id: "news-my-climate-newsletter-recommendations",
-          title: 'My climate newsletter recommendations',
-          description: "",
           section: "News",},{id: "news-advice-for-starting-a-phd",
           title: 'Advice for starting a PhD',
+          description: "",
+          section: "News",},{id: "news-my-first-first-author-preprint-is-out",
+          title: 'My first first-author preprint is out!',
           description: "",
           section: "News",},{
         id: 'social-email',
