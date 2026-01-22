@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2025-06-12
+date: 2026-01-22
 inline: true
 ---
 
-[My climate newsletter recommendations]({% post_url 2025-06-12-climate-newsletters %})
+[My first first-author preprint is out!]({% post_url 2026-01-22-my-first-first-author-preprint-is-out %})
