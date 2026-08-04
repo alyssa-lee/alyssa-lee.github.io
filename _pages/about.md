@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm so excited to be attending Rutgers University for my [Ph.D. in Quantitative Biomedicine](https://iqb.rutgers.edu/whyqb)!
+I'm so excited to be attending Rutgers University for my [Ph.D. in Quantitative Biomedicine](https://iqb.rutgers.edu/whyqb)! I'm co-advised by [Dr. Rohan Maddamsetti](https://maddamsetti.science) and [Dr. Sagar Khare](https://kharelab.github.io/).
 
 I graduated from Carnegie Mellon University with my [B.S. in Computational Biology](https://cbd.cmu.edu/education/undergraduate/bs-computational-biology/) in May 2024. Subsequently, I worked as a Bioinformatics Analyst at the University of Pittsburgh.
 
