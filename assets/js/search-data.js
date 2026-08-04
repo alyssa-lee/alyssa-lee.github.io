@@ -16,9 +16,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-preprint-out-halompnn-retraining-proteinmpnn-for-salt-tolerant-enzyme-design",
+        },{id: "post-preprint-out-halompnn-salt-tolerant-enzyme-design",
         
-          title: "Preprint out! HaloMPNN: retraining ProteinMPNN for salt-tolerant enzyme design",
+          title: "Preprint out! HaloMPNN: salt-tolerant enzyme design",
         
         description: "&quot;HaloMPNN: retraining ProteinMPNN on halophilic proteomes for salt-tolerant enzyme design&quot; by Alyssa Lu Lee, Austin Seamann, Gwendolyn Chung, Clairie Zhao, Rohan Maddamsetti, Sagar Khare, bioRxiv, 2026 (preprint). doi: https://doi.org/10.64898/2026.08.02.742362",
         section: "Posts",
@@ -489,8 +489,8 @@ ninja.data = [{
           section: "News",},{id: "news-advice-for-starting-a-phd",
           title: 'Advice for starting a PhD',
           description: "",
-          section: "News",},{id: "news-my-first-first-author-preprint-is-out",
-          title: 'My first first-author preprint is out!',
+          section: "News",},{id: "news-preprint-out-halompnn-salt-tolerant-enzyme-design",
+          title: 'Preprint out! HaloMPNN: salt-tolerant enzyme design',
           description: "",
           section: "News",},{
         id: 'social-email',
