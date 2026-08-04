@@ -1,13 +1,13 @@
 ---
 layout: post
-title: My very first first-author preprint is out!
+title: My first first-author preprint is out!
 date: 2026-01-22
 description: "\"Zero-shot ecological annotation of microbial genomes with myLLannotator accelerates scientific discovery\" by Alyssa Lu Lee, Arya Sharma, and Rohan Maddamsetti, bioRxiv, 2026 (preprint). doi: https://doi.org/10.64898/2026.01.18.700140"
 tags: phd biology
 categories: blog
 ---
 
-I'm very excited to share that my very first first-author preprint is out! It is called "**Zero-shot ecological annotation of microbial genomes with myLLannotator accelerates scientific discovery**" by Alyssa Lu Lee, Arya Sharma, and [Rohan Maddamsetti](https://maddamsetti.science/), bioRxiv, 2026 (preprint). You can see it at [bioRxiv](https://www.biorxiv.org/content/10.64898/2026.01.18.700140v1).
+I'm excited to share that my very first first-author preprint is out! It is called "**Zero-shot ecological annotation of microbial genomes with myLLannotator accelerates scientific discovery**" by Alyssa Lu Lee, Arya Sharma, and [Rohan Maddamsetti](https://maddamsetti.science/), bioRxiv, 2026 (preprint). You can see it at [bioRxiv](https://www.biorxiv.org/content/10.64898/2026.01.18.700140v1).
 
 I wrote a python package called [myLLannotator](https://pypi.org/project/myllannotator/), a user-friendly tool for automated annotation of metadata with open-source large language models. 
 
