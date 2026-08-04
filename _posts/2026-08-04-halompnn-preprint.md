@@ -11,7 +11,7 @@ Check out my latest preprint!
 
 "**HaloMPNN: retraining ProteinMPNN on halophilic proteomes for salt-tolerant enzyme design**" by Alyssa Lu Lee, Austin Seamann, Gwendolyn Chung, Clairie Zhao, Rohan Maddamsetti, Sagar Khare, bioRxiv, 2026 (preprint). doi: https://doi.org/10.64898/2026.08.02.742362
 
-For a quick overview, the poster I presented at [RosettaCon](https://rosettacommons.org/events/src/) is available [here](https://github.com/alyssa-lee/HaloMPNN_figures/blob/c19232bc6dc4a22edb8a7f600b97d6f67c92491f/additional_figures/poster/HaloMPNN_poster_RosettaCon_Aug2026.pdf).
+I also presented a poster at [RosettaCon](https://rosettacommons.org/events/src/), and it's available [here](https://github.com/alyssa-lee/HaloMPNN_figures/blob/c19232bc6dc4a22edb8a7f600b97d6f67c92491f/additional_figures/poster/HaloMPNN_poster_RosettaCon_Aug2026.pdf). You can find and use HaloMPNN (the model weights) at our [GitHub](https://github.com/alyssa-lee/HaloMPNN_figures).
 
 Our goal is to redesign proteins to increase their salt tolerance. Enzymes that function at extremely high salt concentrations may be useful for seaweed degradation, turning the problematic *Sargassum* seaweed bloom in the Atlantic into a sustainable biomanufacturing resource (see the [Sargassum BioRefinery project](https://sabreproject.org)).
 
@@ -25,6 +25,7 @@ Our next step is to actually make these proteins and test them to see if they wo
 
 
 ![sargassum seaweed stranded on beach](../../../assets/img/2026-08-04/AdobeStock_217958328.jpeg){: style="max-width:400px"}
+
 *Sargassum* seaweed, stranded on a beach.
 
 
