@@ -4,4 +4,4 @@ date: 2026-01-22
 inline: true
 ---
 
-[My first first-author preprint is out!]({% post_url 2026-01-22-my-first-first-author-preprint-is-out %})
+[Preprint out! HaloMPNN: salt-tolerant enzyme design]({% post_url 2026-08-04-halompnn-preprint %})

@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Preprint out! HaloMPNN: retraining ProteinMPNN for salt-tolerant enzyme design"
+title: "Preprint out! HaloMPNN: salt-tolerant enzyme design"
 date: 2026-08-04
 description: "\"HaloMPNN: retraining ProteinMPNN on halophilic proteomes for salt-tolerant enzyme design\" by Alyssa Lu Lee, Austin Seamann, Gwendolyn Chung, Clairie Zhao, Rohan Maddamsetti, Sagar Khare, bioRxiv, 2026 (preprint). doi: https://doi.org/10.64898/2026.08.02.742362"
 tags: phd biology
 categories: blog
 ---
 
-Check out my latest preprint!
+Check out my latest [preprint](https://doi.org/10.64898/2026.08.02.742362)!
 
 "**HaloMPNN: retraining ProteinMPNN on halophilic proteomes for salt-tolerant enzyme design**" by Alyssa Lu Lee, Austin Seamann, Gwendolyn Chung, Clairie Zhao, Rohan Maddamsetti, Sagar Khare, bioRxiv, 2026 (preprint). doi: https://doi.org/10.64898/2026.08.02.742362
 
