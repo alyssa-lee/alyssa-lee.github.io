@@ -17,11 +17,11 @@ Our goal is to redesign proteins to increase their salt tolerance. Enzymes that 
 
 To design proteins that can resist high salt, we took inspiration from life at the extremes. Extreme halophilic ("salt-loving") organisms must make proteins that function at high salt (both inside and outside the cytoplasm). Halophilic proteins tend to have certain properties, including a negatively charged surface and reduced hydrophobicity, that enable them to tolerate high salt concentrations.
 
-ProteinMPNN is computational model that predicts the *sequence* of a protein based on its three-dimensional *structure*. It's often used to generate alternative sequences for an existing protein to try to improve its properties. We hypothesized that training ProteinMPNN on salt-tolerant proteins would create a model capable of designing proteins with salt-tolerant properties.
+ProteinMPNN is a computational model that predicts the *sequence* of a protein based on its three-dimensional *structure*. It's often used to generate alternative sequences for an existing protein to try to improve its properties. We hypothesized that training ProteinMPNN on salt-tolerant proteins would create a model capable of designing proteins with salt-tolerant properties.
 
 Our model, HaloMPNN, redesigns protein sequences to shift their properties towards those of natural halophilic proteins. Preliminary computational results look promising! If you're curious, check out our preprint for more details.
 
-Our next step is to actually make these proteins and test them to see if they work at high salt concentrations! I'll defer to our wet-lab collaborators on this one, since I'm no good with a pipette. I'm excited to see how it turns out.
+Our next step is to actually make these proteins and test them to see if they work at high salt concentrations! I'll defer to our wet-lab collaborators on this one. I'm excited to see how it turns out.
 
 
 ![sargassum seaweed stranded on beach](../../../assets/img/2026-08-04/AdobeStock_217958328.jpeg){: style="max-width:400px"}
