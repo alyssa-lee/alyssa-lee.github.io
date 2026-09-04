@@ -16,7 +16,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-preprint-out-halompnn-salt-tolerant-enzyme-design",
+        },{id: "post-nih-fellowship-and-starting-year-2",
+        
+          title: "NIH fellowship and starting year 2",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/fellowship-and-updates/";
+          
+        },
+      },{id: "post-preprint-out-halompnn-salt-tolerant-enzyme-design",
         
           title: "Preprint out! HaloMPNN: salt-tolerant enzyme design",
         
