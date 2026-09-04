@@ -13,6 +13,31 @@ Last month, I had so much fun attending [Summer RosettaCon 2026](https://rosetta
 
 I'll spend my second year (starting now!) doing research, finishing up coursework, and looking for an internship for the summer. I'm feeling optimistic and excited to see where my research takes me.
 
+![poster](../../../assets/img/2026-09-04/poster.jpeg){: style="max-width:400px"}
+
+Presenting my poster at Summer RosettaCon 2026
+&nbsp;
+
+![forest view](../../../assets/img/2026-09-04/hiking1.jpeg){: style="max-width:400px"}
+
+Forest seen while hiking
+&nbsp;
+
+![mountains and lake view](../../../assets/img/2026-09-04/hiking2.jpeg){: style="max-width:400px"}
+
+Rattlesnake Lake, viewed while hiking
+&nbsp;
+
+![university of washington fountain](../../../assets/img/2026-09-04/uw.jpeg){: style="max-width:400px"}
+
+The gorgeous University of Washington campus
+&nbsp;
+
+![university of washington fountain](../../../assets/img/2026-09-04/blackberries.jpeg){: style="max-width:400px"}
+
+Wild blackberries (delicious!)
+&nbsp;
+
 [back to blog](../../)
 
 &nbsp;
