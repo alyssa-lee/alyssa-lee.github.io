@@ -16,7 +16,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-nih-fellowship-and-starting-year-2",
+        },{id: "post-multicellularity-and-cooperation",
+        
+          title: "Multicellularity and cooperation",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/multicellularity/";
+          
+        },
+      },{id: "post-nih-fellowship-and-starting-year-2",
         
           title: "NIH fellowship and starting year 2",
         
