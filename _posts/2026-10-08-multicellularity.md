@@ -9,7 +9,8 @@ categories: blog
 
 
 
-![multicellularity](../../../assets/img/2026/multicellularity.png){: style="max-width:400px"}
+![multicellularity](../../../assets/img/2026/multicellularity.jpg){: style="max-width:800px"}
+
 *Drawn by me a few years ago*
 
 
